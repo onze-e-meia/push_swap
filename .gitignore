@@ -1,0 +1,14 @@
+#############
+# Directory #
+#############
+objs/
+libs/libft/objs
+
+#########
+# Files #
+#########
+*.a
+*.o
+*.sh
+*.txt
+push_swap
